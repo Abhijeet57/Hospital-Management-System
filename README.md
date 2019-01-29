@@ -3,7 +3,7 @@ Hospital-Management-System
 
 ## Introduction:
 
-## INFO:
+## Info:
 1. Language Used: Java
 2. Database Used: MongoDB
 3. Tool Used: Eclipse IDE 
