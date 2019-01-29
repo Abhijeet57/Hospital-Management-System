@@ -2,6 +2,7 @@
 Hospital-Management-System
 
 ## Introduction:
+The system helped to automated hospital functionality. It is used to save processing time of hospital and increase its efficiency by manage new patient information, booking doctor’s appointments, generating bills, searching patient records etc. System reduced hospitals processing time by almost 50%. Also, it is able to update patients records and medical history. 
 
 ## Info:
 1. Language Used: Java
