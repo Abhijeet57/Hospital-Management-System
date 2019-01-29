@@ -4,9 +4,9 @@ Hospital-Management-System
 ## Introduction:
 
 ## INFO:
-Language Used: Java
-Database Used: MongoDB
-Tool Used: Eclipse IDE 
+1. Language Used: Java
+2. Database Used: MongoDB
+3. Tool Used: Eclipse IDE 
 
 ## Instructions:
 1. Install eclipse and mongoDB on system.
