@@ -2,6 +2,7 @@
 
 ## Team Members:
 | |
+| :------|
 | Abhijeet Sawant |
 | Jitendra Kute |
 | Vijay Devkate |
